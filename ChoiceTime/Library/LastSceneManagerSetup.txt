@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ChoiceTime/Time.unity
+  isLoaded: 1
+  isActive: 1
